@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "リボンをかけた恋心",
+  "base_artist": "カネヨリマサル",
+  "createdAt": "2026-02-07T19:04:03.340075Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リボンをかけた恋心",
+      "artist": "カネヨリマサル",
+      "has_synced": false,
+      "path": "select/pl_01_リボンをかけた恋心_カネヨリマサル.txt"
+    }
+  ]
+}
